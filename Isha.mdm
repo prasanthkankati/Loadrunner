@@ -13,3 +13,19 @@ SOAP is like a strict courier service that wraps your message in an envelope (XM
 | Speed     | Slower (verbose)              | Faster (lightweight)          |
 | Standards | Strict standards (WSDL, XSD)  | No standard contract          |
 | Usage     | Enterprise apps, B2B          | Web APIs, mobile, modern apps |
+
+
+create scripting for SOAP:
+webrequest can for http / html can be created by follwing functions.
+
+
+Using Web_URL
+Using Web_Link
+Using Web Submit_form
+Using Web Submit _data
+Using web custom request - mostly used functions.
+
+
+
+
+
