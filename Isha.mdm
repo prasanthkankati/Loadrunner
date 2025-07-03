@@ -1,0 +1,15 @@
+Web services like login, browse products, add to cart, checkout and logout services.
+
+SOAP: SOAP stands for Simple Object Access Protocol. It’s a messaging protocol used for exchanging structured information between systems
+over a network, typically HTTP.
+
+Think of it like this:
+
+SOAP is like a strict courier service that wraps your message in an envelope (XML format) and ensures it follows formal rules before delivering it.
+| Feature   | SOAP                          | REST                          |
+| --------- | ----------------------------- | ----------------------------- |
+| Format    | XML only                      | JSON, XML, etc.               |
+| Protocol  | Strict (uses only HTTP, SMTP) | Flexible (HTTP-based)         |
+| Speed     | Slower (verbose)              | Faster (lightweight)          |
+| Standards | Strict standards (WSDL, XSD)  | No standard contract          |
+| Usage     | Enterprise apps, B2B          | Web APIs, mobile, modern apps |
